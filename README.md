@@ -3,5 +3,5 @@
 
 Thanks for passing by.
 
-- 😄 Pronouns: He/Him/His
+- 😄 My pronouns are He/Him/His.
 
