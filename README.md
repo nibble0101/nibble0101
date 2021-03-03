@@ -6,3 +6,4 @@ Elsewhere, you can find me at
 - [dev.to](https://dev.to/nibble)
 - [linkedin](https://www.linkedin.com/in/joseph-mawa-465000203/)
 - [twitter](https://twitter.com/MJMAWA)
+- [freeCodeCamp](https://www.freecodecamp.org/news/author/joseph/)
