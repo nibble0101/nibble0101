@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for passing by. My name is Joseph Mawa. I am a technical writer and a frontend developer transitioning to a fullstack developer. I am interested in the MERN stack. Besides JavaScript, I also know a bit of Python and R. I have started exploring [ocaml](https://ocaml.org/learn/) as well. 
+Thanks for passing by. My name is Joseph Mawa. I am a technical writer and a frontend developer transitioning to a fullstack developer. I am interested in the MERN stack. Besides JavaScript, I also know a bit of Python and R.
 
 Elsewhere, you can find me at
 - [dev.to](https://dev.to/nibble)
