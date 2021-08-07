@@ -21,3 +21,6 @@ If you would love to get in touch with me, feel free to do so from [here](https:
 </p>
 
 ----
+<p>
+  <a href="https://twitter.com/MJMAWA"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FMJMAWA"></a>
+</p>
