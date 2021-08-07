@@ -3,7 +3,7 @@
 
 Thanks for passing by. My name is Joseph Mawa. I am a technical writer and a frontend developer transitioning to a fullstack developer. I am interested in the MERN stack. Besides JavaScript, I also know a bit of Python and R.
 
-Elsewhere, you can find me at
+Elsewhere, you can find me on:
 - [dev.to](https://dev.to/nibble)
 - [linkedin](https://www.linkedin.com/in/joseph-mawa-465000203/)
 - [twitter](https://twitter.com/MJMAWA)
@@ -21,6 +21,3 @@ If you would love to get in touch with me, feel free to do so from [here](https:
 </p>
 
 ----
-<p>
-  <a href="https://twitter.com/MJMAWA"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FMJMAWA"></a>
-</p>
