@@ -9,7 +9,7 @@ Elsewhere, you can find me on:
 - [twitter](https://twitter.com/MJMAWA)
 - [freeCodeCamp](https://www.freecodecamp.org/news/author/joseph/)
 
-If you would love to get in touch with me, feel free to DM me on [twitter]([twitter](https://twitter.com/MJMAWA)).
+If you would love to get in touch with me, feel free to DM me on [twitter](https://twitter.com/MJMAWA).
 
 ---
 
